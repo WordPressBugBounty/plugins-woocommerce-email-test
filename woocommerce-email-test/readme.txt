@@ -3,8 +3,8 @@ Contributors: raiserweb
 Donate link: http://raiserweb.com
 Tags: woocommerce, email test, woocommerce email test
 Requires at least: 3.0.1
-Tested up to: 5.8
-WC tested up to: 4.5
+Tested up to: 6.8
+WC tested up to: 9.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
